@@ -124,16 +124,6 @@
   .intro {
     text-align: center;
   }
-
-  .into h2 {
-      font-size: 55px;
-      color: #024e76;
-      margin-bottom: 35px;
-      padding: 0 100px 20px 100px;
-      border-bottom: 3px solid;
-      border-color: #fce138;
-      display: inline-block;
- }
   
   .intro p {
     line-height: 1.7;
@@ -147,12 +137,12 @@
     text-align: center;
     background: #fce138;
   }
-  
+
   .steps div {
     margin-bottom: 80px;
   }
   
-  .steps img {
+  .steps img step-1.svg {
     width: 15%;
     margin: 10px 0;
   }
